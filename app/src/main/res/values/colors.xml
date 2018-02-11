@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorWelcomeScreenStart">#730f0f</color>
+    <color name="colorWelcomeScreenCenter">#d61a1a</color>
+    <color name="colorWelcomeScreenEnd">#dc3535</color>
 </resources>
